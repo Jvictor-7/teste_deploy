@@ -1,6 +1,10 @@
 [{
-    "host": "ranilsonpaiva.com",
+    "name": "server-1",
+    "ip": "ranilsonpaiva.com",
     "username": "monitoria@ranilsonpaiva.com",
     "password": "mudar.123",
-    "path": "/public/teste_deploy/"
+    "port": "22",
+    "beforeHooks": "",
+    "afterHooks": "",
+    "path": "/var/ww/html"
 }]
