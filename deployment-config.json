@@ -1,0 +1,10 @@
+[{
+    "name": "ranilsonpaiva.com",
+    "ip": "ranilsonpaiva.com",
+    "username": "monitoria@ranilsonpaiva.com",
+    "password": "mudar.123",
+    "port": "22",
+    "beforeHooks": "",
+    "afterHooks": "",
+    "path": "/var/ww/html"
+}]
