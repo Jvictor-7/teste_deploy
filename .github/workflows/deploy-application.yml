@@ -62,7 +62,7 @@ jobs:
         with:
           host: ${{ matrix.server.ip }}
           username: ${{ matrix.server.username }}
-          password: ${{ matrix.server.port }}
+          password: ${{ matrix.server.password }}
           source: ${{ github.sha }}.tar.gz
           target: ${{ matrix.server.path }}/artifacts // /var/www/html/artifacts
 
